@@ -1,2 +1,7 @@
 Extent Report API:
 http://relevantcodes.com/Tools/ExtentReports2/javadoc/index.html
+
+官方网站在这里：http://extentreports.relevantcodes.com/
+
+官方说明在这里：http://extentreports.com/docs/versions/3/java/
+
